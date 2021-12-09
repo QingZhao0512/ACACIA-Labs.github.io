@@ -118,7 +118,7 @@ plugins:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: true
+        output: false
         permalink: /wiki/:path/
 
 # ---------------- #
