@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 文档支持的Markdown语法   
-categories: [cate1, cate2]
+categories: [Markdown, 语法]
 description: some word here
-keywords: keyword1, keyword2
+keywords: Markdown, MD
 ---
 
 
