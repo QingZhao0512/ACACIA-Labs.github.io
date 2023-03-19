@@ -12,3 +12,4 @@ ACACIA-Labs文献阅读分享网站的使用方法
 + 使用[Markdown模板](/docs/template_upload.md)进行内容填写
 + 填写完之后将文件命令为 xxxx-xx-xx-*.md (年月日-文档名.md)
 + 进入[页面](https://github.com/ACACIA-Labs/ACACIA-Labs.github.io/tree/master/_posts)；点击**Add file** --> **Upload files**
+## 随便试试
